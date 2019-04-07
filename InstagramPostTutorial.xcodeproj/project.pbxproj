@@ -14,9 +14,9 @@
 		14E9A1092259413900946141 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14E9A1072259413900946141 /* LaunchScreen.storyboard */; };
 		14E9A1142259413A00946141 /* InstagramPostTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9A1132259413A00946141 /* InstagramPostTutorialTests.swift */; };
 		14E9A11F2259413A00946141 /* InstagramPostTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9A11E2259413A00946141 /* InstagramPostTutorialUITests.swift */; };
-		14E9A12D225990CF00946141 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14E9A12C225990CE00946141 /* Assets.xcassets */; };
 		14E9A12F2259961400946141 /* DejaVuSerif.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 14E9A12E225995FC00946141 /* DejaVuSerif.ttf */; };
 		14E9A1362259B52400946141 /* ProximaNovaAltRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 14E9A1352259B52300946141 /* ProximaNovaAltRegular.ttf */; };
+		14EF4A65225A82D60034E42A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14EF4A64225A82D60034E42A /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,9 +50,9 @@
 		14E9A11A2259413A00946141 /* InstagramPostTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramPostTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		14E9A11E2259413A00946141 /* InstagramPostTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramPostTutorialUITests.swift; sourceTree = "<group>"; };
 		14E9A1202259413A00946141 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		14E9A12C225990CE00946141 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14E9A12E225995FC00946141 /* DejaVuSerif.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = DejaVuSerif.ttf; path = "../../../../anaconda/pkgs/qt-5.6.2-2/lib/fonts/DejaVuSerif.ttf"; sourceTree = "<group>"; };
 		14E9A1352259B52300946141 /* ProximaNovaAltRegular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaAltRegular.ttf; sourceTree = "<group>"; };
+		14EF4A64225A82D60034E42A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +107,7 @@
 				14E9A0FD2259413800946141 /* ViewController.swift */,
 				14E9A0FF2259413800946141 /* Main.storyboard */,
 				14E9A1072259413900946141 /* LaunchScreen.storyboard */,
-				14E9A12C225990CE00946141 /* Assets.xcassets */,
+				14EF4A64225A82D60034E42A /* Assets.xcassets */,
 				14E9A10A2259413900946141 /* Info.plist */,
 				14E9A1022259413800946141 /* InstagramPostTutorial.xcdatamodeld */,
 				14E9A1352259B52300946141 /* ProximaNovaAltRegular.ttf */,
@@ -240,9 +240,9 @@
 			files = (
 				14E9A1092259413900946141 /* LaunchScreen.storyboard in Resources */,
 				14E9A1362259B52400946141 /* ProximaNovaAltRegular.ttf in Resources */,
-				14E9A12D225990CF00946141 /* Assets.xcassets in Resources */,
 				14E9A1012259413800946141 /* Main.storyboard in Resources */,
 				14E9A12F2259961400946141 /* DejaVuSerif.ttf in Resources */,
+				14EF4A65225A82D60034E42A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
